@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>personalsite</title>
+	<title>personal site</title>
 	<atom:link href="https://rrarrs.github.io/personalwebsite/feed/" rel="self" type="application/rss+xml" />
 	<link>https://rrarrs.github.io/personalwebsite</link>
 	<description>Just another WordPress site</description>
