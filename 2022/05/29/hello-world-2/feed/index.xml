@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="/https://rrarrs.github.io/personalwebsite/2022/05/29/hello-world-2/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://rrarrs.github.io/personalwebsite/2022/05/29/hello-world-2/</link>
+	<atom:link href="https://rrarrs.github.io/personalwebsite/2022/05/29/hello-world-2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rrarrs.github.io/personalwebsite/2022/05/29/hello-world-2/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sun, 29 May 2022 22:17:53 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>/https://rrarrs.github.io/personalwebsite/2022/05/29/hello-world-2/#comment-2</link>
+		<link>https://rrarrs.github.io/personalwebsite/2022/05/29/hello-world-2/#comment-2</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sun, 29 May 2022 22:17:53 +0000</pubDate>

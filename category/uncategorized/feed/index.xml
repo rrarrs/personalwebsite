@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; personalsite</title>
-	<atom:link href="/https://rrarrs.github.io/personalwebsite/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://rrarrs.github.io/personalwebsite</link>
+	<atom:link href="https://rrarrs.github.io/personalwebsite/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rrarrs.github.io/personalwebsite</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Wed, 01 Jun 2022 12:39:47 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/https://rrarrs.github.io/personalwebsite/2022/06/01/hello-world/</link>
-					<comments>/https://rrarrs.github.io/personalwebsite/2022/06/01/hello-world/#comments</comments>
+		<link>https://rrarrs.github.io/personalwebsite/2022/06/01/hello-world/</link>
+					<comments>https://rrarrs.github.io/personalwebsite/2022/06/01/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 01 Jun 2022 12:39:47 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/https://rrarrs.github.io/personalwebsite/?p=1</guid>
+		<guid isPermaLink="false">https://rrarrs.github.io/personalwebsite/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://rrarrs.github.io/personalwebsite/2022/06/01/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://rrarrs.github.io/personalwebsite/2022/06/01/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hello world!</title>
-		<link>/https://rrarrs.github.io/personalwebsite/2022/05/29/hello-world-2/</link>
-					<comments>/https://rrarrs.github.io/personalwebsite/2022/05/29/hello-world-2/#comments</comments>
+		<link>https://rrarrs.github.io/personalwebsite/2022/05/29/hello-world-2/</link>
+					<comments>https://rrarrs.github.io/personalwebsite/2022/05/29/hello-world-2/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 29 May 2022 22:17:53 +0000</pubDate>
@@ -54,7 +54,7 @@
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://rrarrs.github.io/personalwebsite/2022/05/29/hello-world-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://rrarrs.github.io/personalwebsite/2022/05/29/hello-world-2/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
